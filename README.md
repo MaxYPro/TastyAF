@@ -96,9 +96,9 @@ http://localhost/tastyaf/
 
 ## 👨‍💻 Team Members
 
-- **Maxim Pereu** – Full Stack Developer  
-- **Vasile Padureanu** – Project Manager  
-- **Marius Olaru** – Tester
+- **Maxim Pereu** – Development & deployment 
+- **Vasile Padureanu** – Project planning, scheduling, documentation
+- **Marius Olaru** – Branding, user research, financial input
 
 ---
 
