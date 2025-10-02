@@ -84,3 +84,26 @@ Start MySQL
 http://localhost/tastyaf/
 ```
 
+
+# Accounts for Testing:
+```
+  Username   Email             Password   Role
+
+  Maxim      maxim@gmail.com   maxim      (user)
+  Admin      admin@gmail.com   admin      (admin)
+```
+---
+
+## 👨‍💻 Team Members
+
+- **Maxim Pereu** – Full Stack Developer  
+- **Vasile Padureanu** – Project Manager  
+- **Marius Olaru** – Tester
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute this project for personal or commercial purposes.
+
