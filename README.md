@@ -33,7 +33,7 @@ Admins can manage orders through a secure admin panel.
 
 ## 📂 Project Structure
 
-'''
+```
 tastyaf/
 │── css/ # Stylesheets
 │── img/ # Images & logos
