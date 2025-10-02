@@ -54,6 +54,33 @@ tastyaf/
 ## ⚙️ Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/YOUR_USERNAME/tastyaf.git
-   ```
+```
+git clone https://github.com/YOUR_USERNAME/tastyaf.git
+```
+
+or
+
+2. Move Project to XAMPP
+```
+move tastyaf C:\xampp\htdocs\tastyaf
+```
+
+3. Import Database from project folder to phpMyAdmin
+```
+https://localhost/phpmyadmin
+```
+
+
+4. Start Apache & MySQL in XAMPP
+# (Run this from XAMPP Control Panel)
+```
+Start Apache
+Start MySQL
+```
+
+5. Open in Browser
+# Navigate to:
+```
+http://localhost/tastyaf/
+```
+
